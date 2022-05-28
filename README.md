@@ -8,11 +8,11 @@ I am going to graduate in Spring 2023. I am actively looking for full-time or in
 ## Connect me on Linkedin!  
 [![LinkedIn](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=LinkedIn)](https://www.linkedin.com/in/yucheng-huang-8a290/)  
 You can also check out my website(under construction). https://aidenhuang01.github.io/
+
 ***
 
-<h3 align="left">My Skills:</h3>
+## My Tech Stack
 <p align="left">
-
 <h4 align="left">Programming:</h4>
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c" width="40" height="40"/> </a>
