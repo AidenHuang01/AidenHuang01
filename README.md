@@ -1,11 +1,13 @@
 # Yucheng (Aiden) Huang
 ## Welcome to my Github! 😄
 I am currently a third-year Computer Engineering student at UC, San Diego.  
-I am going to graduate in Spring 2023. I am actively looking for full-time or internship job opportunities for Summer 2023. I had software development experience and research experience in autonomous vehicles. Please contact me if you are interested in hiring software development engineers!  
+I am going to graduate in Spring 2023.  
+I am actively looking for full-time or internship job opportunities for Summer 2023. I had software development experience and research experience in autonomous vehicles. Please contact me if you are interested in hiring software development engineers!  
 
 ***
 
-## Connect me on Linkedin! (I need a job for 2023!!!)
+## I need a job for 2023!!!
+Connect me on LinkedIn!  
 [![LinkedIn](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=LinkedIn)](https://www.linkedin.com/in/yucheng-huang-8a290/)  
 You can also check out my website(under construction). https://aidenhuang01.github.io/
 
@@ -24,13 +26,13 @@ You can also check out my website(under construction). https://aidenhuang01.gith
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 
-<h4 align="left">Frontend:</h4>
+<h4 align="left">Front end:</h4>
 <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 
-<h4 align="left">Libraries:</h4>
+<h4 align="left">Data Science & Machine Learning:</h4>
 <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40"/> </a>
 <a href="https://numpy.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="pytorch" width="40" height="40"/> </a>
 <a href="https://pytorch.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/> </a>
