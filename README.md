@@ -56,7 +56,7 @@ You can also check out my website(under construction). https://aidenhuang01.gith
 <a href="https://josm.openstreetmap.de/" target="_blank"> <img src="https://raw.githubusercontent.com/AidenHuang01/AidenHuang01/main/resource/images/josm.png" alt="josm" width="40" height="40"/> </a>
 
 <h4 align="left">Hardware & Circuits:</h4>
-<a href="https://www.verilog.com/" target="_blank"> <img src="https://raw.githubusercontent.com/SublimeText/AFileIcon/master/icons/svg/file_type_vhdl.svg" alt="verilog" width="40" height="40"/> </a>
+<a href="https://www.verilog.com/" target="_blank"> <img src="https://raw.githubusercontent.com/AidenHuang01/AidenHuang01/main/resource/images/SystemVerilog.svg" alt="verilog" width="40" height="40"/> </a>
 <a href="https://www.designworkssolutions.com/logicworks/" target="_blank"> <img src="https://raw.githubusercontent.com/AidenHuang01/AidenHuang01/main/resource/images/logicworks_solutions_logo2-e1402605070300.jpg" alt="logicworks" width="40" height="40"/> </a>
 <a href="https://www.orcad.com/" target="_blank"> <img src="https://raw.githubusercontent.com/AidenHuang01/AidenHuang01/main/resource/images/Capture_CIS.png" alt="capture_cis" width="40" height="40"/> </a>
 
