@@ -49,6 +49,7 @@ You can also check out my website(under construction). https://aidenhuang01.gith
 <a href="https://kubernetes.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="40" height="40"/> </a>
 <a href="https://azure.microsoft.com/en-us/services/devops/" target="_blank"> <img src="https://raw.githubusercontent.com/AidenHuang01/AidenHuang01/main/resource/images/devops.webp" alt="devops" width="40" height="40"/> </a>
 <a href="https://www.atlassian.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="jira" width="40" height="40"/> </a>
+<a href="https://www.zenhub.com/" target="_blank"> <img src="https://raw.githubusercontent.com/AidenHuang01/AidenHuang01/main/resource/images/zenhub.jpg" alt="zenhub" width="40" height="40"/> </a>
 
 <h4 align="left">Autonomous Vehicle & Robotics:</h4>
 <a href="https://www.ros.org/" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ros.svg" alt="ros" width="40" height="40"/> </a>
