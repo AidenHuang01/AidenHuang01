@@ -44,13 +44,13 @@ You can also check out my website(under construction). https://aidenhuang01.gith
 
 <h4 align="left">Devops & Project Management:</h4>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://kubernetes.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="40" height="40"/> </a>
 <a href="https://www.atlassian.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="jira" width="40" height="40"/> </a>
 
 <h4 align="left">Autonomous Vehicle & Robotics:</h4>
 <a href="https://www.ros.org/" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ros.svg" alt="ros" width="40" height="40"/> </a>
 <a href="https://pointclouds.org/" target="_blank"> <img src="https://raw.githubusercontent.com/AidenHuang01/AidenHuang01/main/resource/images/pcl.webp" alt="pcl" width="40" height="40"/> </a>
-<a href="https://pointclouds.org/" target="_blank"> <img src="https://raw.githubusercontent.com/AidenHuang01/AidenHuang01/main/resource/images/josm.png" alt="josm" width="40" height="40"/> </a>
+<a href="https://josm.openstreetmap.de/" target="_blank"> <img src="https://raw.githubusercontent.com/AidenHuang01/AidenHuang01/main/resource/images/josm.png" alt="josm" width="40" height="40"/> </a>
 
 <h4 align="left">Hardware & Circuits:</h4>
 <a href="https://www.verilog.com/" target="_blank"> <img src="https://raw.githubusercontent.com/SublimeText/AFileIcon/master/icons/svg/file_type_vhdl.svg" alt="verilog" width="40" height="40"/> </a>
