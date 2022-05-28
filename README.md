@@ -5,7 +5,7 @@ I am going to graduate in Spring 2023. I am actively looking for full-time or in
 
 ***
 
-## Connect me on Linkedin!  
+## Connect me on Linkedin! (I need a job!!!)
 [![LinkedIn](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=LinkedIn)](https://www.linkedin.com/in/yucheng-huang-8a290/)  
 You can also check out my website(under construction). https://aidenhuang01.github.io/
 
