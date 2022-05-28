@@ -5,7 +5,7 @@ I am going to graduate in Spring 2023. I am actively looking for full-time or in
 
 ***
 
-## Connect me on Linkedin! (I need a job!!!)
+## Connect me on Linkedin! (I need a job for 2023!!!)
 [![LinkedIn](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=LinkedIn)](https://www.linkedin.com/in/yucheng-huang-8a290/)  
 You can also check out my website(under construction). https://aidenhuang01.github.io/
 
@@ -45,6 +45,7 @@ You can also check out my website(under construction). https://aidenhuang01.gith
 <h4 align="left">Devops & Project Management:</h4>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://kubernetes.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="40" height="40"/> </a>
+<a href="https://azure.microsoft.com/en-us/services/devops/" target="_blank"> <img src="https://raw.githubusercontent.com/AidenHuang01/AidenHuang01/main/resource/images/Devops.jpg" alt="devops" width="40" height="40"/> </a>
 <a href="https://www.atlassian.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="jira" width="40" height="40"/> </a>
 
 <h4 align="left">Autonomous Vehicle & Robotics:</h4>
