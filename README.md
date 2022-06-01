@@ -1,5 +1,6 @@
 # Yucheng (Aiden) Huang
 ## Welcome to my Github! 😄
+![](https://visitor-badge.glitch.me/badge?page_id=AidenHuang01.AidenHuang01)  
 I am currently a third-year Computer Engineering student at UC, San Diego.  
 I am going to graduate in Spring 2023.  
 I am actively looking for full-time or internship job opportunities for Summer 2023. I had software development experience and research experience in autonomous vehicles. Please contact me if you are interested in hiring software development engineers!  
