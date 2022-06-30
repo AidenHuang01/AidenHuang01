@@ -11,7 +11,8 @@ I am actively looking for full-time or internship job opportunities for Summer 2
 Checkout my [Resume](./resource/doc/Yucheng_Huang_Resume_SWE_0615.pdf)!
 Connect me on LinkedIn!  
 [![LinkedIn](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=LinkedIn)](https://www.linkedin.com/in/yucheng-huang-8a290/)  
-You can also check out my website(under construction). https://aidenhuang01.github.io/
+You can also check out my website(under construction). https://aidenhuang01.github.io/  
+Feel free to send me an email via yuh032[at]ucsd.edu
 
 ***
 
