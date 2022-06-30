@@ -1,10 +1,9 @@
 # Yucheng (Aiden) Huang
 ## Welcome to my Github! 😄
 ![](https://visitor-badge.glitch.me/badge?page_id=AidenHuang01.AidenHuang01)  
-I am currently a third-year Computer Engineering student at UC, San Diego.  
-I am going to graduate in Spring 2023.  
-I am actively looking for full-time or internship job opportunities for Summer 2023. I had software development experience and research experience in autonomous vehicles. Please contact me if you are interested in hiring software development engineers!  
-
+I am currently a third-year Computer Engineering student at UC, San Diego, California, United State.  
+I am graduating in Spring 2023.  
+I am actively looking for full-time or internship job opportunities for Summer 2023. I had software development experience and research experience in autonomous vehicles. Please contact me if you are interested in hiring software development engineers!  =
 ***
 
 ## I need a job for 2023!!!  
@@ -21,6 +20,7 @@ Feel free to send me an email via yuh032[at]ucsd.edu
 <h4 align="left">Programming:</h4>
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c" width="40" height="40"/> </a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
 <a href="https://www.java.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.mathworks.com/products/matlab.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/> </a>
@@ -40,6 +40,7 @@ Feel free to send me an email via yuh032[at]ucsd.edu
 <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40"/> </a>
 <a href="https://numpy.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="pytorch" width="40" height="40"/> </a>
 <a href="https://pytorch.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/> </a>
+<a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit learn" width="40" height="40"/> </a>
 <a href="https://opencv.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original-wordmark.svg" alt="opencv" width="40" height="40"/> </a>
 
 <h4 align="left">Tools:</h4>
@@ -54,6 +55,7 @@ Feel free to send me an email via yuh032[at]ucsd.edu
 <a href="https://azure.microsoft.com/en-us/services/devops/" target="_blank"> <img src="https://raw.githubusercontent.com/AidenHuang01/AidenHuang01/main/resource/images/devops.webp" alt="devops" width="40" height="40"/> </a>
 <a href="https://www.atlassian.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="jira" width="40" height="40"/> </a>
 <a href="https://www.zenhub.com/" target="_blank"> <img src="https://raw.githubusercontent.com/AidenHuang01/AidenHuang01/main/resource/images/zenhub.jpg" alt="zenhub" width="40" height="40"/> </a>
+<a href="https://trello.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="trello" width="40" height="40"/> </a>
 
 <h4 align="left">Autonomous Vehicle & Robotics:</h4>
 <a href="https://www.ros.org/" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ros.svg" alt="ros" width="40" height="40"/> </a>
