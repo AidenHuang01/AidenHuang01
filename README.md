@@ -3,6 +3,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=AidenHuang01.AidenHuang01)  
 I am currently a third-year Computer Engineering student at UC, San Diego, California, United State.  
 I am currently working as a research intern in Wireless Communication, Sensing and Networking Group under the instruction of professor Dinesh Bharadia. I am working on autonomous vehicle sensoring and system development. Check out some cool projects we have [WCSNG](http://wcsng.ucsd.edu/vehicular.html)!  
+<a href="https://github.com/AidenHuang01/point_vis" target="_blank"> <img src="https://raw.githubusercontent.com/AidenHuang01/AidenHuang01/main/resource/images/before" alt="point_vis" width="400" height="400"/> </a> 
 ***
 
 ## I need a job for 2023!!! 
