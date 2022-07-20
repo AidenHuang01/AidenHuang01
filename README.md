@@ -7,6 +7,11 @@ I am currently working as a research intern in Wireless Communication, Sensing a
 <a href="https://github.com/AidenHuang01/point_vis" target="_blank"> <img src="https://raw.githubusercontent.com/AidenHuang01/AidenHuang01/main/resource/images/after.png" alt="point_vis" width="650" height="400"/> </a> 
 ***
 
+## My Project Group -- [Forge Tech](https://github.com/forgetech-dev)
+In 2022 I founded my project group Forge Tech which is now focusing on developing mobile applications. Our current application under development is [Forge Career](https://github.com/forgetech-dev/Forge-Career). Forge Career enable users to manage their job applications easily and can update the job application status and see statistics using this applicaiton.
+
+
+***
 ## I need a job for 2023!!! 
 I am graduating in Spring 2023.  
 I am actively looking for full-time or internship job opportunities for Summer 2023. I had software development experience and research experience in autonomous vehicles.  
@@ -34,11 +39,16 @@ Feel free to send me an email via yuh032[at]ucsd.edu for any job oppotunity or j
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://cmake.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" alt="cmake" width="40" height="40"/> </a>
 
-<h4 align="left">Front end:</h4>
+<h4 align="left">Frontend:</h4>
 <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+
+<h4 align="left">Backend:</h4>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://www.sqlite.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/> </a>
+<a href="https://firebase.google.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/> </a>
 
 <h4 align="left">Data Science & Machine Learning:</h4>
 <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40"/> </a>
