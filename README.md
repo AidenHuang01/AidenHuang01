@@ -8,8 +8,9 @@ I am currently working as a research intern in Wireless Communication, Sensing a
 ***
 
 ## My Project Group -- [Forge Tech](https://github.com/forgetech-dev)
-In 2022 I founded my project group Forge Tech which is now focusing on developing mobile applications. Our current application under development is [Forge Career](https://github.com/forgetech-dev/Forge-Career). Forge Career enable users to manage their job applications easily and can update the job application status and see statistics using this applicaiton.
-
+In 2022 I founded my project group Forge Tech which is now focusing on developing mobile applications. Our current application under development is [Forge Career](https://github.com/forgetech-dev/Forge-Career). Forge Career enable users to manage their job applications easily and can update the job application status and see statistics using this applicaiton.  
+<a href="https://github.com/AidenHuang01/point_vis" target="_blank"> <img src="https://raw.githubusercontent.com/AidenHuang01/AidenHuang01/main/resource/images/forgecareer1.jpg" alt="point_vis" width="400" height="888"/> </a>
+<a href="https://github.com/AidenHuang01/point_vis" target="_blank"> <img src="https://raw.githubusercontent.com/AidenHuang01/AidenHuang01/main/resource/images/forgecareer3.jpg" alt="point_vis" width="400" height="888"/> </a> 
 
 ***
 ## I need a job for 2023!!! 
