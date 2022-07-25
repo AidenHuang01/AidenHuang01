@@ -17,7 +17,7 @@ In 2022 I founded my project group Forge Tech which is now focusing on developin
 I am graduating in Spring 2023.  
 I am actively looking for full-time or internship job opportunities for Summer 2023. I had software development experience and research experience in autonomous vehicles.  
 Please contact me if you are interested in hiring software development engineers!   
-Checkout my [Resume](./resource/doc/Yucheng_Huang_Resume_SWE_0718.pdf)!  
+Checkout my [Resume](./resource/doc/Yucheng_Huang_Resume_SWE_0724.pdf)!  
 Connect me on LinkedIn!  
 <a href="https://www.linkedin.com/in/yucheng-huang-8a290" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linedin" width="80" height="80"/> </a>  
 You can also check out my website(under construction). https://aidenhuang01.github.io/  
